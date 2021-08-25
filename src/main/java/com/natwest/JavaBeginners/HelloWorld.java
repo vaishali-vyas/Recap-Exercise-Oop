@@ -1,17 +1,19 @@
-package com.natwest.Helloworld;
+package com.natwest.JavaBeginners;
 
 public class HelloWorld {
 
-	/* Create a method that accepts a String as a parameter, and then outputs it to
-	the console.*/
-	
+	/*
+	 * Create a method that accepts a String as a parameter, and then outputs it to
+	 * the console.
+	 */
+
 	public static void printMessage() {
-	     String message = "Hello World!";
-	     System.out.println(message);
-	 }
+		String message = "Hello World!";
+		System.out.println(message);
+	}
 
 	public static void main(String[] args) {
-		 printMessage();
+		printMessage();
 //		System.out.println("Hello World");
 
 //storing hello world in variable 
