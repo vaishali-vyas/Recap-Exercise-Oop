@@ -20,8 +20,7 @@ public class Maths {
 		if(num1 < num2) {
 			System.out.println(divide);}
 		else {
-			System.out.println("Division can not be performed");
-			
+			System.out.println("Division can not be performed");	
 		}
 	
 
